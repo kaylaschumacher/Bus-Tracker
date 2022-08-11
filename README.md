@@ -1,15 +1,18 @@
 # Real Time Bus Tracker
 
 ## What is it?
+
 This is an assignment I completed for the MIT xPro-MERN course. In this exercise we tracked the route of a bus and a marker was placed at each bus top.
 
 ## How to Run?
+
 To run this code, fork and clone this repository. Run the index.html file. All additional files are included in the download.
 
 ## Future Improvments?
+
 An additional feature this project could include is the time it takes to get to each bus stop.
 
-##License
+## License
 
 MIT License
 
