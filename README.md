@@ -10,6 +10,7 @@ To run this code, fork and clone this repository. Run the index.html file. All a
 An additional feature this project could include is the time it takes to get to each bus stop.
 
 ##License
+
 MIT License
 
 Copyright (c) 2020 John Williams
