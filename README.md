@@ -12,7 +12,7 @@ To run this code, fork and clone this repository. Run the index.html file. All a
 
 An additional feature this project could include is the time it takes to get to each bus stop.
 
-# Support
+## Support
 You can access my github [here](http://github.com/kaylaschumacher.github.io).
 
 ## License
